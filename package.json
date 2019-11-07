@@ -1,0 +1,22 @@
+{
+  "name": "node-demo",
+  "version": "1.0.0",
+  "description": "node demo ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oylx/node-demo.git"
+  },
+  "author": "oylx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oylx/node-demo/issues"
+  },
+  "homepage": "https://github.com/oylx/node-demo#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
+}
